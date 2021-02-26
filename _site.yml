@@ -5,8 +5,8 @@ navbar:
   left:
     - text: "About"
       href: about.html
-    - text: "research"
-      href: research.html
+    - text: "Research"
+      href: Research.html
     - icon: fa-envelope fa-lg
       href: mailto:<you@youremail.com>
 output:

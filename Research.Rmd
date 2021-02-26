@@ -1,0 +1,12 @@
+---
+title: "My awesome website"
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    toc: yes
+    toc_float: yes
+---
+
+Bayesian modelling, high-dimensional statistics.
+
